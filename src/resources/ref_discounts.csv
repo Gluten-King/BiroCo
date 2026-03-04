@@ -1,0 +1,12 @@
+DiscountID,DiscountType,DiscountMethod,DiscountValue,PickWeight
+D00000,no_discount,fixed,0,60
+D00001,membership,percentage,10,8
+D00002,promo_code,percentage,5,8
+D00003,coupon,fixed,1,3
+D00004,coupon,fixed,3,3
+D00005,coupon,fixed,5,3
+D00006,coupon,fixed,8,3
+D00007,coupon,fixed,10,3
+D00008,student,percentage,10,5
+D00009,staff,percentage,20,2
+D00010,sale,percentage,25,2
