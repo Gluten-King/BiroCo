@@ -20,6 +20,7 @@ It is intended for database coursework, testing, and demos.
 
 ```bash
 python src/data_generator.py
+python src/validation.py
 ```
 
 Generated files will be written to `src/output/`.
